@@ -1,0 +1,1001 @@
+Customer Name,Product,Amount Spent,Gender,Card,City,Age,Time Spent
+Jillana,Smartphone,35.3,Female,visa,Dallas,56,12
+Aurie,Shoes,17.2,Female,visa,Los Angeles,30,49
+Wallace,Laptop,130.6,Male,visa,Houston,37,41
+Kristy,Belt,107.9,Female,mastercard,Chicago,57,37
+Melodie,Bat,75.2,Female,visa,Chicago,37,27
+Dulsea,Shirt,17.8,Female,visa,Houston,61,23
+Clarinda,Ball,186.9,Female,visa,Chicago,37,49
+Odilia,Smartphone,115.0,Female,visa,San Diego,50,19
+Janeta,Ball,17.7,Female,mastercard,San Jose,43,51
+Burgess,Smartphone,57.6,Male,mastercard,San Jose,31,30
+Barby,Sunglasses,68.5,Female,mastercard,Philadelphia,55,50
+Brittani,Book,11.8,Female,mastercard,Houston,56,42
+Menard,Shoes,73.7,Male,mastercard,San Antonio,43,44
+Cullan,Ball,595.8,Male,mastercard,Houston,68,39
+Johnath,Smartphone,1468.8,Female,mastercard,Houston,21,22
+Siobhan,Laptop,190.7,Female,mastercard,Chicago,25,24
+Rolph,Ball,350.5,Male,mastercard,Phoenix,62,23
+Malina,Belt,96.7,Female,mastercard,Austin,62,48
+Ingunna,Smartphone,1166.1,Female,visa,Houston,64,38
+Rooney,Bag,35.4,Male,visa,Dallas,24,38
+Jenilee,Book,78.1,Female,visa,San Diego,55,37
+Shelley,Smartphone,12.6,Female,visa,Jacksonville,41,27
+Norry,Watch,33.7,Male,visa,Jacksonville,25,34
+Raquel,Belt,1202.8,Female,visa,Chicago,69,15
+Hilde,Wallet,22.5,Female,mastercard,Dallas,22,25
+Jase,Shirt,244.9,Male,visa,Phoenix,30,18
+Giralda,Ball,142.2,Female,mastercard,Philadelphia,19,17
+Mirna,Sunglasses,49.6,Female,visa,San Jose,52,30
+Redd,Book,934.7,Male,visa,Chicago,65,53
+Siffre,Shirt,22.3,Male,visa,Jacksonville,45,23
+Moll,Book,53.7,Female,mastercard,San Diego,48,12
+Artair,Wallet,50.4,Male,visa,Chicago,64,12
+Perla,Laptop,39.3,Female,visa,Houston,43,49
+Granny,Scarf,136.5,Male,visa,San Antonio,44,30
+Sherman,Jacket,98.9,Male,mastercard,Los Angeles,44,58
+Dougy,Shirt,70.0,Male,visa,Philadelphia,57,54
+Zolly,Wallet,32.7,Male,visa,Austin,39,35
+Urbanus,Watch,30.8,Male,visa,Houston,32,28
+Erinna,Watch,21.3,Female,visa,Chicago,26,47
+Aaron,Bag,130.8,Male,visa,Jacksonville,62,41
+Munroe,Ball,83.2,Male,mastercard,Philadelphia,67,13
+Hershel,Ball,145.2,Male,visa,San Antonio,48,52
+Euell,Belt,112.1,Male,mastercard,Chicago,53,29
+Bathsheba,Jacket,50.4,Female,visa,San Diego,65,31
+Damien,Shoes,15.1,Male,visa,San Jose,38,44
+Mariann,Book,23.0,Female,visa,San Antonio,35,16
+Donnie,Bag,1182.8,Male,visa,Phoenix,45,51
+Leodora,Bat,43.8,Female,visa,New York,28,60
+Nanice,Smartphone,23.9,Female,mastercard,San Antonio,67,21
+Dene,Bag,18.6,Male,visa,Phoenix,65,46
+Michal,Smartphone,50.0,Male,visa,New York,41,54
+Ganny,Bat,1491.0,Male,visa,New York,65,57
+Stern,Book,732.7,Male,visa,Austin,40,27
+Early,Sunglasses,133.0,Male,visa,Austin,35,41
+Bing,Belt,276.4,Male,visa,Dallas,47,10
+Dean,Watch,41.3,Male,visa,San Diego,65,35
+Morse,Book,203.9,Male,visa,Chicago,43,51
+Lilas,Ball,27.5,Female,visa,Houston,21,58
+Patsy,Shirt,43.8,Female,visa,Dallas,63,40
+Emlyn,Scarf,196.3,Female,visa,Dallas,37,15
+Evonne,Watch,27.5,Female,visa,New York,44,24
+Annalee,Bag,152.9,Female,visa,San Antonio,34,14
+Genna,Shoes,37.9,Female,visa,Philadelphia,18,38
+Ellynn,Shirt,38.5,Female,visa,Jacksonville,43,55
+Maximilian,Bat,62.8,Male,visa,Dallas,18,57
+Leola,Wallet,113.6,Female,visa,Chicago,33,31
+Todd,Belt,143.8,Male,mastercard,Philadelphia,23,14
+Aaren,Ball,55.3,Female,mastercard,Philadelphia,27,45
+Karlis,Bat,16.6,Male,mastercard,San Diego,61,34
+Oberon,Scarf,1033.5,Male,mastercard,San Jose,67,34
+Huberto,Laptop,38.4,Male,mastercard,Austin,52,53
+Frankie,Bat,12.5,Female,mastercard,Los Angeles,39,29
+Rozanna,Bat,37.1,Female,mastercard,Austin,32,22
+Thane,Scarf,13.2,Male,mastercard,Chicago,20,60
+Anni,Shirt,32.8,Female,mastercard,Phoenix,51,32
+Anett,Ball,120.3,Female,mastercard,Houston,47,52
+Randall,Ball,32.8,Male,mastercard,Chicago,19,42
+Betsy,Jacket,134.0,Female,mastercard,Houston,20,24
+Marty,Smartphone,12.9,Male,mastercard,New York,40,58
+Crawford,Smartphone,419.2,Male,mastercard,San Jose,58,26
+Sandye,Jacket,21.3,Female,mastercard,San Jose,33,58
+Tracy,Shoes,1169.7,Male,mastercard,Jacksonville,35,22
+Correy,Belt,58.2,Female,mastercard,Chicago,48,45
+Ode,Scarf,142.8,Male,mastercard,New York,57,24
+Thayne,Sunglasses,129.9,Male,mastercard,Jacksonville,65,19
+Ber,Book,34.5,Male,mastercard,Phoenix,27,56
+Ernesta,Shoes,82.6,Female,mastercard,San Jose,33,24
+Bonnee,Belt,1025.3,Female,mastercard,San Antonio,36,34
+Bili,Jacket,1159.0,Female,mastercard,San Jose,65,44
+Caro,Shirt,27.0,Female,visa,Philadelphia,35,23
+Benoit,Headphones,70.6,Male,visa,Chicago,69,43
+Tirrell,Wallet,38.9,Male,visa,Houston,63,41
+Grier,Book,30.2,Female,visa,Austin,21,23
+Codie,Scarf,96.1,Male,visa,Chicago,50,48
+Algernon,Bat,1354.0,Male,visa,New York,33,43
+Faina,Ball,33.1,Female,visa,Los Angeles,50,18
+Gillie,Jacket,51.4,Female,visa,Dallas,59,46
+Clay,Ball,824.3,Male,visa,Dallas,20,19
+Joannes,Laptop,70.0,Female,visa,Chicago,55,22
+Ado,Shirt,188.5,Male,visa,San Jose,57,56
+Sheffield,Sunglasses,23.1,Male,visa,Austin,46,20
+Klara,Shoes,22.7,Female,visa,Philadelphia,50,33
+Randall,Wallet,68.5,Male,visa,San Jose,47,31
+Erie,Ball,147.8,Male,visa,San Jose,22,54
+Charlie,Shirt,38.7,Male,visa,Chicago,46,50
+Nikki,Shoes,113.6,Male,visa,San Diego,65,58
+Nichol,Smartphone,1491.0,Female,visa,Chicago,25,50
+Bree,Bat,161.6,Female,visa,Jacksonville,32,47
+Stearne,Ball,58.5,Male,visa,Philadelphia,27,55
+Allistir,Headphones,23.9,Male,visa,Philadelphia,27,59
+Pavia,Wallet,54.7,Female,visa,Jacksonville,67,22
+Patty,Bat,522.4,Female,visa,San Antonio,58,45
+Christy,Scarf,24.5,Male,visa,Philadelphia,63,23
+Tori,Smartphone,193.4,Female,visa,Philadelphia,22,56
+Wyndham,Jacket,110.9,Male,visa,Dallas,28,57
+Emmet,Book,556.5,Male,visa,Phoenix,69,50
+Jesus,Wallet,57.0,Male,visa,Jacksonville,65,45
+Beatriz,Bat,43.6,Female,visa,San Diego,43,41
+Gwennie,Wallet,17.9,Female,visa,New York,44,18
+Gabriella,Jacket,279.4,Female,visa,Chicago,28,14
+Nina,Belt,39.2,Female,visa,Phoenix,18,38
+Shayne,Belt,20.1,Male,visa,Austin,52,43
+Crissy,Scarf,91.3,Female,visa,San Jose,25,37
+Frasquito,Bat,1115.2,Male,visa,Dallas,51,52
+Olive,Wallet,158.2,Female,visa,Houston,22,58
+Ric,Headphones,25.5,Male,visa,Chicago,68,20
+Averyl,Bat,23.6,Female,visa,Philadelphia,26,28
+Sandra,Headphones,204.2,Female,visa,San Jose,20,45
+Morna,Shirt,234.5,Female,visa,Houston,34,43
+Winfred,Jacket,21.6,Male,visa,Dallas,64,38
+Edin,Sunglasses,23.8,Female,visa,Phoenix,48,42
+Lew,Smartphone,666.2,Male,visa,Los Angeles,49,31
+Justinn,Headphones,75.7,Female,visa,San Antonio,30,38
+Benyamin,Shoes,87.5,Male,visa,Chicago,20,43
+Barbe,Shoes,169.3,Female,visa,Houston,23,39
+Merl,Jacket,141.8,Female,visa,Jacksonville,33,28
+Alidia,Headphones,24.2,Female,visa,San Jose,19,59
+Gertrude,Laptop,115.5,Female,visa,San Antonio,36,39
+Meara,Headphones,409.1,Female,visa,Los Angeles,44,49
+Norbert,Ball,736.2,Male,visa,Philadelphia,57,41
+Brandise,Bat,43.8,Female,visa,New York,18,26
+Bartlett,Sunglasses,131.5,Male,visa,Chicago,34,57
+Flossi,Smartphone,26.9,Female,visa,Jacksonville,63,45
+Riccardo,Bag,165.0,Male,visa,Austin,39,30
+Darill,Book,37.4,Male,visa,San Antonio,65,43
+Randal,Shirt,348.0,Male,visa,San Antonio,38,42
+Harlene,Scarf,94.4,Female,visa,New York,18,14
+Rozele,Ball,63.4,Female,visa,Jacksonville,59,16
+Kristal,Scarf,16.9,Female,visa,Jacksonville,67,33
+Harman,Sunglasses,251.0,Male,visa,Philadelphia,56,41
+Rustin,Jacket,22.2,Male,visa,San Jose,58,36
+Gisele,Book,23.7,Female,visa,Dallas,43,25
+Simeon,Scarf,18.1,Male,visa,Chicago,57,45
+Laura,Jacket,58.6,Female,visa,Chicago,24,32
+Chelsy,Bag,282.3,Female,visa,San Jose,57,45
+Trace,Shirt,20.0,Male,visa,Houston,23,33
+Charmane,Smartphone,152.6,Female,visa,San Antonio,46,55
+Malory,Shirt,46.4,Female,visa,New York,60,56
+Sloan,Scarf,42.3,Male,visa,Houston,24,12
+Loraine,Jacket,57.0,Female,visa,Chicago,60,57
+Dennet,Belt,193.1,Male,visa,Jacksonville,19,51
+Des,Belt,165.6,Male,visa,Los Angeles,19,32
+Sam,Book,92.1,Female,visa,Los Angeles,68,29
+Cosetta,Bag,22.7,Female,visa,Philadelphia,62,46
+Opal,Watch,12.0,Female,visa,San Diego,23,53
+Cheston,Ball,103.1,Male,visa,San Diego,55,11
+Allister,Bat,27.6,Male,visa,San Jose,60,35
+Nicolai,Shirt,146.5,Male,visa,San Diego,34,14
+Ferris,Watch,143.0,Male,visa,Houston,48,29
+Stanfield,Shoes,83.9,Male,visa,Phoenix,37,20
+Sibyl,Shirt,151.9,Male,visa,Jacksonville,21,14
+Libbi,Jacket,441.7,Female,visa,Houston,63,51
+Lowrance,Scarf,134.9,Male,visa,San Diego,39,55
+Halley,Bat,99.0,Female,visa,Philadelphia,37,56
+Tobias,Sunglasses,52.4,Male,visa,New York,56,50
+Henrik,Shirt,81.1,Male,visa,San Diego,66,41
+Hana,Shirt,53.7,Female,visa,Los Angeles,47,17
+Ashlin,Ball,63.4,Male,visa,Chicago,60,17
+Eberto,Scarf,73.5,Male,visa,San Antonio,24,28
+Kendal,Headphones,56.6,Male,visa,San Antonio,64,35
+Catharina,Shoes,88.0,Female,visa,Houston,33,41
+Alvinia,Belt,15.4,Female,visa,Philadelphia,31,53
+Wash,Watch,10.7,Male,visa,Philadelphia,58,55
+Julio,Shirt,82.6,Male,visa,Dallas,45,30
+Garrard,Ball,87.8,Male,visa,Dallas,34,33
+Felike,Smartphone,14.1,Male,visa,Philadelphia,35,41
+Mareah,Smartphone,151.3,Female,visa,Philadelphia,41,55
+Catherin,Headphones,57.5,Female,visa,Phoenix,60,24
+Olia,Scarf,127.3,Female,visa,San Antonio,39,31
+Missie,Bag,107.9,Female,visa,Los Angeles,59,29
+Baxy,Shirt,174.9,Male,visa,San Antonio,69,31
+Florence,Shirt,1009.5,Female,visa,San Jose,40,10
+Ailyn,Bat,115.6,Female,visa,San Diego,37,52
+Marysa,Bag,22.3,Female,visa,Houston,27,19
+Guillemette,Headphones,44.2,Female,visa,San Diego,69,52
+Beltran,Bat,93.5,Male,visa,San Jose,27,42
+Crissie,Shoes,102.2,Female,visa,Jacksonville,44,45
+Anselma,Watch,179.2,Female,visa,Houston,45,54
+Alfi,Scarf,14.5,Female,visa,Austin,66,56
+Chevy,Wallet,52.4,Male,visa,Dallas,31,34
+Roy,Jacket,38.0,Male,visa,Los Angeles,65,39
+Norma,Book,50.7,Female,visa,Dallas,51,55
+Quinn,Headphones,83.4,Female,visa,Philadelphia,65,14
+Aland,Watch,75.1,Male,visa,Chicago,32,28
+Carena,Watch,125.4,Female,visa,Phoenix,37,41
+Lion,Smartphone,27.2,Male,visa,San Antonio,60,11
+Benson,Watch,53.8,Male,visa,Philadelphia,24,43
+Easter,Ball,749.1,Female,mastercard,San Jose,21,24
+Woody,Scarf,27.9,Male,mastercard,Austin,56,40
+Katee,Smartphone,15.6,Female,mastercard,Austin,48,39
+Carey,Ball,33.3,Male,mastercard,Phoenix,51,21
+Giffer,Sunglasses,45.4,Male,mastercard,Jacksonville,38,23
+Freedman,Jacket,101.4,Male,mastercard,San Diego,45,20
+Immanuel,Watch,92.6,Male,mastercard,Philadelphia,58,28
+Filmore,Watch,32.9,Male,visa,Austin,25,24
+Madonna,Belt,135.3,Female,visa,San Jose,34,12
+Adelina,Sunglasses,67.8,Female,visa,New York,63,33
+Eugenia,Shirt,27.0,Female,visa,San Diego,67,18
+Garret,Headphones,72.3,Male,visa,Dallas,39,40
+Francisca,Headphones,116.4,Female,visa,Dallas,26,43
+Jillene,Headphones,181.5,Female,mastercard,San Antonio,44,20
+Meade,Book,27.1,Male,visa,Philadelphia,53,59
+Northrup,Book,31.3,Male,visa,Chicago,51,11
+Ki,Shirt,22.1,Female,visa,Jacksonville,70,19
+Aldus,Belt,40.0,Male,mastercard,Jacksonville,49,36
+Lucius,Bat,137.3,Male,visa,San Jose,41,29
+Barbey,Ball,118.0,Female,visa,San Jose,67,17
+Brennen,Laptop,51.5,Male,visa,New York,32,15
+Ricki,Sunglasses,54.4,Male,visa,Austin,30,51
+Zebadiah,Book,1291.0,Male,visa,San Jose,69,43
+Nadiya,Smartphone,64.5,Female,mastercard,Philadelphia,19,23
+Ania,Belt,47.9,Female,mastercard,San Diego,60,40
+Asia,Watch,17.4,Female,mastercard,San Antonio,68,42
+Sigfrid,Shirt,1038.1,Male,mastercard,Philadelphia,30,55
+Jordon,Scarf,10.3,Male,mastercard,Phoenix,23,14
+Benjy,Book,57.6,Male,mastercard,New York,45,59
+Hall,Smartphone,69.3,Male,mastercard,Los Angeles,57,11
+Fancy,Jacket,256.0,Female,mastercard,Dallas,63,18
+Fifi,Ball,34.3,Female,mastercard,Philadelphia,70,41
+Gray,Belt,320.5,Female,mastercard,San Diego,52,47
+Camilla,Sunglasses,75.2,Female,mastercard,Chicago,38,47
+Kristos,Jacket,25.2,Male,mastercard,Houston,21,37
+Dyanna,Watch,46.1,Female,mastercard,Philadelphia,34,28
+Marion,Laptop,37.6,Male,mastercard,San Jose,26,38
+Silvano,Bag,826.3,Male,mastercard,Chicago,26,35
+Whitman,Belt,60.7,Male,mastercard,Dallas,55,48
+Elvyn,Smartphone,17.6,Male,mastercard,Chicago,38,41
+Eldredge,Shoes,79.7,Male,mastercard,San Antonio,25,21
+Imojean,Shirt,125.3,Female,mastercard,Dallas,54,43
+Worthington,Jacket,241.4,Male,mastercard,Austin,65,20
+Marilyn,Scarf,149.6,Female,mastercard,Phoenix,23,26
+Corbet,Bat,45.6,Male,mastercard,San Antonio,33,12
+Emogene,Book,280.9,Female,mastercard,Los Angeles,29,45
+Ermina,Scarf,421.4,Female,mastercard,Houston,68,27
+Melisenda,Headphones,10.7,Female,mastercard,Dallas,42,23
+Cleveland,Bag,170.7,Male,mastercard,Chicago,25,35
+Isabel,Jacket,139.7,Female,mastercard,Philadelphia,47,54
+Eberhard,Headphones,187.3,Male,mastercard,New York,57,18
+Darn,Laptop,57.8,Male,mastercard,Houston,44,12
+Tedman,Laptop,55.3,Male,mastercard,Los Angeles,32,39
+Alverta,Headphones,94.4,Female,mastercard,Austin,22,14
+Burg,Sunglasses,131.8,Male,mastercard,Philadelphia,38,28
+Jada,Smartphone,62.8,Female,mastercard,Los Angeles,21,26
+Myron,Headphones,152.1,Male,mastercard,San Antonio,50,48
+Maury,Smartphone,1406.7,Male,mastercard,Austin,67,22
+Moss,Watch,28.6,Male,mastercard,Houston,27,56
+Dalenna,Bat,105.5,Female,mastercard,Dallas,37,23
+Emelen,Belt,89.2,Male,mastercard,San Antonio,56,23
+Julita,Shirt,152.9,Female,mastercard,Dallas,48,22
+Merle,Laptop,22.0,Male,mastercard,San Diego,57,47
+Demetrius,Wallet,23.5,Male,mastercard,Phoenix,49,54
+Joella,Smartphone,113.0,Female,mastercard,Jacksonville,65,35
+Erich,Scarf,156.0,Male,mastercard,Los Angeles,69,36
+Patsy,Watch,23.7,Male,mastercard,New York,53,33
+Rosalinda,Headphones,31.7,Female,mastercard,Los Angeles,45,10
+Betteann,Watch,97.1,Female,mastercard,Los Angeles,46,30
+Abbe,Wallet,13.5,Female,mastercard,Jacksonville,53,25
+Haleigh,Headphones,262.2,Female,mastercard,Philadelphia,39,44
+Abeu,Belt,15.2,Male,mastercard,Jacksonville,37,26
+Uri,Book,72.9,Male,mastercard,Dallas,27,55
+Lorne,Smartphone,134.6,Male,mastercard,New York,38,56
+Shena,Sunglasses,352.8,Female,mastercard,San Diego,61,42
+Tracie,Shoes,16.0,Female,mastercard,New York,25,14
+Leonhard,Headphones,50.6,Male,mastercard,Los Angeles,36,48
+Jasen,Wallet,24.2,Male,mastercard,Los Angeles,64,58
+Emmerich,Bag,123.7,Male,mastercard,Phoenix,64,27
+Hinda,Smartphone,61.5,Female,mastercard,Houston,41,34
+Elliott,Laptop,39.5,Male,mastercard,Phoenix,61,53
+Eugenio,Headphones,27.4,Male,mastercard,Philadelphia,27,19
+Jeanelle,Bag,33.0,Female,mastercard,San Antonio,45,29
+Abram,Sunglasses,134.5,Male,mastercard,Austin,32,12
+Frieda,Headphones,43.3,Female,mastercard,San Diego,27,52
+Rozanne,Belt,12.9,Female,mastercard,Los Angeles,25,17
+Fergus,Bat,44.3,Male,mastercard,New York,27,21
+Brittani,Watch,145.0,Female,mastercard,Philadelphia,48,35
+Lynelle,Watch,28.0,Female,mastercard,Houston,54,12
+Meredeth,Book,43.7,Male,mastercard,Phoenix,40,32
+Mike,Book,218.7,Male,mastercard,Austin,49,53
+Micki,Scarf,51.3,Female,mastercard,Phoenix,46,16
+Robin,Wallet,23.4,Male,mastercard,Jacksonville,33,35
+Eberhard,Belt,84.0,Male,mastercard,Phoenix,20,41
+Gladi,Laptop,37.0,Female,mastercard,Los Angeles,40,38
+Karlens,Headphones,23.1,Male,mastercard,San Jose,30,22
+Charmaine,Smartphone,251.9,Female,mastercard,Phoenix,50,34
+Shantee,Bat,103.6,Female,mastercard,Los Angeles,52,46
+Elane,Smartphone,23.5,Female,mastercard,Philadelphia,37,40
+Lydon,Shirt,1437.8,Male,mastercard,San Jose,43,15
+Romain,Laptop,12.0,Male,mastercard,Philadelphia,60,24
+Eldridge,Bag,21.7,Male,mastercard,Austin,65,14
+Layton,Sunglasses,15.3,Male,mastercard,Dallas,45,45
+Hamlen,Bag,29.2,Male,mastercard,Los Angeles,50,43
+Jinny,Wallet,31.6,Female,mastercard,Chicago,59,38
+Deanne,Shirt,171.2,Female,mastercard,Houston,27,44
+Cooper,Belt,74.5,Male,mastercard,Jacksonville,45,34
+Marlie,Book,24.1,Female,mastercard,Philadelphia,42,22
+Eliza,Sunglasses,37.0,Female,mastercard,San Diego,53,21
+Neill,Laptop,145.5,Male,mastercard,New York,32,40
+Lucky,Jacket,19.7,Female,mastercard,Philadelphia,44,14
+Bryan,Shoes,16.4,Male,mastercard,Los Angeles,53,55
+Damon,Bat,44.6,Male,mastercard,San Diego,55,46
+Leann,Wallet,62.5,Female,mastercard,Dallas,70,59
+Merl,Jacket,69.4,Female,mastercard,Jacksonville,21,40
+Heriberto,Belt,33.4,Male,mastercard,New York,69,49
+Maureen,Jacket,85.2,Female,mastercard,Jacksonville,66,30
+Phillipp,Smartphone,76.8,Male,mastercard,San Diego,48,36
+Ogden,Belt,41.1,Male,mastercard,San Antonio,20,21
+Teodoor,Shoes,169.8,Male,mastercard,San Antonio,36,10
+Harlin,Bat,45.4,Male,mastercard,San Diego,66,53
+Henderson,Bag,84.6,Male,mastercard,Chicago,59,47
+Hobey,Sunglasses,222.2,Male,mastercard,Dallas,49,34
+Daniella,Wallet,133.6,Female,mastercard,San Antonio,33,18
+Sallee,Book,23.4,Female,mastercard,Dallas,48,22
+Kylila,Scarf,231.1,Female,mastercard,San Antonio,50,43
+Aldis,Headphones,872.0,Male,mastercard,New York,31,50
+Sonia,Laptop,1448.1,Female,mastercard,San Jose,69,31
+Sonia,Laptop,69.2,Female,mastercard,Chicago,26,50
+Brittany,Shoes,39.1,Female,mastercard,Houston,65,51
+Abrahan,Book,142.4,Male,mastercard,San Antonio,54,41
+Robby,Watch,33.8,Female,mastercard,Philadelphia,26,55
+Giorgio,Jacket,85.4,Male,mastercard,San Antonio,21,59
+Myles,Headphones,49.7,Male,mastercard,Dallas,46,32
+Jerad,Bag,267.8,Male,mastercard,Houston,65,50
+Fairlie,Smartphone,73.7,Male,mastercard,Dallas,52,56
+Candie,Ball,12.2,Female,mastercard,New York,35,23
+Gustave,Headphones,63.2,Male,mastercard,Chicago,21,21
+Mehetabel,Ball,131.2,Female,mastercard,Austin,66,56
+Far,Wallet,145.0,Male,mastercard,Dallas,57,33
+Dalila,Headphones,51.7,Female,mastercard,Austin,43,24
+Thorsten,Ball,147.4,Male,mastercard,Chicago,48,37
+Colan,Bat,78.7,Male,mastercard,San Jose,25,10
+Bastien,Jacket,45.9,Male,mastercard,San Jose,32,35
+Dione,Belt,170.1,Female,mastercard,Philadelphia,56,30
+Renado,Headphones,18.0,Male,mastercard,Los Angeles,20,24
+Abbie,Shirt,14.6,Female,mastercard,Los Angeles,22,23
+Yves,Bag,83.0,Male,mastercard,Jacksonville,66,30
+Chaddy,Headphones,62.2,Male,mastercard,Houston,21,52
+Burk,Shirt,28.8,Male,mastercard,San Diego,49,31
+Nathalia,Jacket,50.3,Female,mastercard,Chicago,69,24
+Richart,Sunglasses,1071.8,Male,mastercard,New York,56,47
+Raf,Wallet,38.0,Female,mastercard,Jacksonville,53,46
+Gayle,Ball,76.3,Female,mastercard,San Jose,34,38
+Stephan,Belt,38.8,Male,mastercard,San Diego,70,13
+Quentin,Shirt,16.0,Male,mastercard,San Jose,67,19
+Adham,Sunglasses,38.5,Male,mastercard,Dallas,30,47
+Yetty,Shirt,44.3,Female,mastercard,Dallas,65,35
+Truman,Watch,156.4,Male,mastercard,San Antonio,65,20
+Morris,Wallet,665.7,Male,mastercard,Chicago,29,37
+Edyth,Bat,69.8,Female,mastercard,Houston,37,49
+Xenos,Shoes,35.1,Male,mastercard,Dallas,52,22
+Jasun,Sunglasses,187.6,Male,mastercard,Houston,26,23
+Adolphus,Ball,21.7,Male,mastercard,Phoenix,27,29
+Humphrey,Smartphone,100.3,Male,mastercard,San Antonio,33,51
+Jenn,Watch,17.8,Female,mastercard,Phoenix,64,59
+Onofredo,Sunglasses,21.7,Male,mastercard,Philadelphia,52,45
+Brion,Shoes,80.7,Male,mastercard,Phoenix,38,56
+Trev,Ball,12.5,Male,mastercard,San Antonio,25,31
+Sergeant,Bag,652.3,Male,mastercard,Dallas,45,27
+Hanson,Book,78.7,Male,mastercard,Austin,26,38
+Ermin,Ball,37.3,Male,mastercard,Chicago,22,49
+Emmott,Watch,126.7,Male,mastercard,Jacksonville,34,13
+Drud,Wallet,20.1,Male,mastercard,San Diego,20,33
+Titos,Shoes,63.1,Male,mastercard,Houston,31,21
+Abdel,Jacket,42.2,Male,mastercard,San Jose,24,29
+Viole,Belt,11.8,Female,mastercard,Chicago,23,28
+Olympie,Scarf,189.0,Female,mastercard,Dallas,49,19
+Whitby,Smartphone,92.6,Male,mastercard,San Diego,25,42
+Adrian,Belt,144.8,Male,mastercard,Los Angeles,18,41
+Yolane,Laptop,38.5,Female,mastercard,Dallas,34,49
+Hubie,Bag,87.4,Male,mastercard,San Jose,61,16
+Corey,Scarf,89.6,Male,mastercard,Los Angeles,24,18
+Darin,Bat,19.9,Male,mastercard,San Jose,63,19
+Nicolette,Shoes,56.3,Female,mastercard,San Antonio,37,29
+Miner,Wallet,125.6,Male,mastercard,Jacksonville,42,59
+Bonni,Shirt,39.2,Female,mastercard,Philadelphia,30,39
+Desmond,Wallet,137.3,Male,mastercard,Phoenix,31,11
+Cosme,Sunglasses,257.0,Male,mastercard,San Diego,32,43
+Harbert,Shoes,28.5,Male,mastercard,Dallas,29,43
+Laraine,Laptop,13.4,Female,mastercard,San Jose,44,26
+Emilie,Sunglasses,45.8,Female,visa,Dallas,64,13
+Bobbe,Book,45.0,Female,visa,Phoenix,24,51
+Kerwinn,Shoes,111.9,Male,visa,Jacksonville,37,20
+Bayard,Ball,63.4,Male,visa,San Antonio,44,41
+Kennedy,Watch,57.0,Male,visa,Chicago,50,41
+Lucky,Bag,796.4,Female,visa,Dallas,27,18
+Maryellen,Bat,33.1,Female,visa,San Jose,57,39
+Johny,Watch,18.0,Male,visa,Austin,49,21
+Hilary,Scarf,43.6,Male,visa,San Jose,63,35
+Tiphany,Jacket,41.8,Female,visa,San Diego,58,15
+Joletta,Ball,248.0,Female,visa,Dallas,58,45
+Belvia,Book,451.1,Female,visa,New York,24,57
+Bernie,Bat,50.3,Female,visa,New York,34,20
+Valery,Book,48.7,Female,visa,San Jose,40,35
+Danit,Sunglasses,18.3,Female,visa,Jacksonville,27,34
+Iago,Jacket,38.5,Male,visa,Phoenix,34,53
+Leonie,Sunglasses,253.6,Female,visa,Dallas,21,28
+Gae,Headphones,89.1,Female,visa,New York,53,25
+Giusto,Shoes,266.0,Male,visa,Los Angeles,29,57
+Corbett,Scarf,36.7,Male,visa,Houston,40,57
+Northrop,Jacket,29.0,Male,visa,Houston,24,43
+Kip,Belt,30.7,Female,visa,San Antonio,64,43
+Park,Smartphone,41.8,Male,visa,San Diego,20,41
+Wandis,Headphones,19.2,Female,visa,Chicago,68,21
+Rochester,Shirt,27.9,Male,visa,Dallas,69,35
+Maitilde,Headphones,232.4,Female,visa,San Antonio,19,51
+Jena,Sunglasses,24.2,Female,visa,New York,48,20
+Massimiliano,Smartphone,18.9,Male,visa,San Jose,44,27
+Tawsha,Headphones,716.1,Female,visa,Philadelphia,49,29
+Nert,Watch,41.7,Female,visa,San Antonio,55,40
+Peirce,Bat,34.6,Male,visa,Philadelphia,26,46
+Albert,Shirt,21.5,Male,visa,San Jose,30,48
+Liz,Smartphone,83.6,Female,visa,Los Angeles,63,18
+Emalee,Ball,17.0,Female,visa,San Antonio,64,29
+Ford,Shirt,132.4,Male,visa,Philadelphia,53,58
+Malva,Belt,47.6,Female,visa,San Antonio,55,17
+Lemuel,Shoes,97.4,Male,visa,Philadelphia,62,43
+Sharai,Jacket,15.6,Female,visa,Houston,69,25
+Geoffrey,Bag,89.8,Male,visa,Chicago,52,30
+Ole,Bat,306.2,Male,visa,San Jose,67,59
+Isak,Sunglasses,10.7,Male,visa,New York,31,55
+Tedd,Laptop,297.6,Male,visa,Phoenix,46,16
+Margaret,Jacket,835.7,Female,visa,Philadelphia,51,31
+Rad,Laptop,12.3,Male,visa,San Antonio,43,24
+Noe,Shoes,30.0,Male,visa,San Antonio,19,42
+Augustine,Bag,18.0,Male,visa,Houston,39,38
+Marlyn,Shoes,16.2,Female,visa,Austin,33,14
+Ardenia,Belt,265.3,Female,visa,Chicago,27,31
+Hiram,Shoes,178.3,Male,visa,New York,44,30
+Frederick,Sunglasses,1332.5,Male,visa,Chicago,37,30
+Neille,Wallet,30.0,Female,visa,Jacksonville,63,18
+Wynny,Bag,125.9,Female,visa,Los Angeles,61,29
+Linnet,Headphones,75.6,Female,visa,San Jose,38,15
+Chelsy,Ball,50.5,Female,visa,Austin,59,31
+Blancha,Sunglasses,121.2,Female,visa,New York,51,46
+Monty,Shoes,79.5,Male,visa,San Diego,22,28
+Kyla,Headphones,535.7,Female,visa,San Jose,40,36
+Randie,Ball,551.8,Female,visa,San Jose,39,20
+Ivar,Bat,77.5,Male,visa,Jacksonville,67,12
+Pincus,Shirt,93.7,Male,visa,Chicago,66,38
+Alistair,Scarf,85.8,Male,visa,Houston,48,46
+Jacynth,Shirt,73.1,Female,visa,San Diego,49,14
+Melisande,Sunglasses,174.4,Female,visa,San Antonio,29,32
+Dukey,Book,25.0,Male,visa,Jacksonville,45,16
+Brittney,Bag,25.3,Female,visa,San Antonio,55,55
+Rosemaria,Bat,17.6,Female,visa,Philadelphia,68,39
+Quincey,Jacket,68.5,Male,visa,Jacksonville,58,26
+Ennis,Bag,52.4,Male,visa,San Jose,60,23
+Decca,Ball,67.6,Male,visa,San Diego,19,14
+Niall,Wallet,1061.1,Male,visa,New York,35,56
+Slade,Shirt,163.7,Male,visa,Chicago,54,26
+Demetra,Watch,15.2,Female,visa,San Antonio,48,34
+Eliot,Watch,835.8,Male,visa,Jacksonville,42,33
+Orran,Shoes,54.0,Male,visa,Houston,57,52
+Norbert,Wallet,1203.3,Male,visa,Los Angeles,23,49
+Jessy,Headphones,94.8,Female,visa,Chicago,47,18
+Hadrian,Laptop,188.2,Male,visa,Philadelphia,68,52
+Ingmar,Headphones,22.0,Male,visa,San Antonio,23,46
+Maudie,Bag,1347.4,Female,visa,Jacksonville,48,45
+Tabbie,Watch,196.1,Female,visa,San Antonio,47,54
+Bradford,Smartphone,13.0,Male,visa,Phoenix,19,23
+Rodrick,Watch,109.0,Male,visa,Austin,46,38
+Stewart,Bag,17.7,Male,visa,Phoenix,45,53
+Clark,Bag,134.9,Male,visa,Chicago,24,59
+Kristi,Laptop,40.8,Female,visa,Austin,38,30
+Kahlil,Shoes,37.4,Male,visa,Philadelphia,21,17
+Willis,Smartphone,162.5,Male,visa,Los Angeles,33,36
+Alexei,Watch,53.7,Male,visa,San Diego,65,30
+Tabor,Bat,1386.1,Male,visa,Dallas,26,58
+Noelyn,Sunglasses,10.1,Female,visa,Dallas,67,35
+Fiorenze,Bag,1244.6,Female,visa,Philadelphia,64,36
+Cicily,Shoes,18.6,Female,visa,Dallas,31,46
+Elijah,Bat,16.2,Male,visa,Jacksonville,35,15
+Chet,Bat,25.0,Male,visa,New York,62,19
+Corrina,Watch,18.8,Female,visa,Philadelphia,65,54
+Baxter,Bag,18.1,Male,visa,San Diego,46,31
+Adelind,Shirt,31.4,Female,visa,Philadelphia,25,53
+Terri-jo,Book,82.0,Female,visa,Chicago,56,11
+Baird,Scarf,94.3,Male,visa,Phoenix,21,11
+Pennie,Bag,31.2,Male,visa,Los Angeles,50,38
+Sam,Headphones,32.7,Male,visa,San Jose,45,36
+Hallsy,Wallet,1220.7,Male,visa,San Antonio,26,46
+Farris,Watch,32.2,Male,visa,Los Angeles,55,17
+Ervin,Belt,11.0,Male,mastercard,Austin,26,39
+Ruperto,Smartphone,21.8,Male,mastercard,San Antonio,40,51
+Ives,Wallet,40.7,Male,mastercard,Houston,45,36
+Berthe,Scarf,24.9,Female,mastercard,Houston,45,53
+Caspar,Belt,51.2,Male,mastercard,Philadelphia,50,37
+Davita,Smartphone,24.1,Female,mastercard,Chicago,59,54
+Radcliffe,Ball,150.0,Male,mastercard,Los Angeles,29,52
+Fernando,Shoes,204.3,Male,mastercard,New York,50,25
+Randolph,Book,376.7,Male,mastercard,Phoenix,44,56
+Alli,Bag,38.4,Female,mastercard,Jacksonville,22,20
+Odey,Wallet,66.8,Male,mastercard,San Antonio,41,12
+Estel,Laptop,124.4,Female,mastercard,Austin,53,55
+Jed,Belt,20.7,Male,mastercard,San Jose,63,52
+Tan,Watch,23.6,Male,mastercard,Los Angeles,53,25
+Meredithe,Belt,44.4,Female,mastercard,Chicago,66,30
+Ansell,Jacket,1047.4,Male,mastercard,Los Angeles,67,11
+Olivero,Book,79.0,Male,mastercard,San Diego,60,35
+Marilee,Jacket,67.4,Female,mastercard,San Jose,37,36
+Barrie,Smartphone,11.0,Male,mastercard,Austin,37,15
+Price,Book,14.1,Male,visa,San Jose,46,54
+Teresa,Scarf,197.2,Female,visa,Phoenix,48,18
+Freemon,Book,28.9,Male,visa,New York,45,30
+Willetta,Wallet,959.4,Female,visa,Austin,30,47
+Alecia,Shoes,144.6,Female,visa,Chicago,31,30
+Durward,Scarf,115.2,Male,visa,Los Angeles,32,43
+Pren,Shoes,38.1,Male,visa,Los Angeles,25,52
+Maxim,Smartphone,248.0,Male,visa,Philadelphia,34,24
+Welby,Ball,57.2,Male,visa,Phoenix,69,16
+Lemmie,Sunglasses,26.6,Male,visa,Jacksonville,39,13
+Nana,Ball,93.6,Female,visa,Los Angeles,55,48
+Dalt,Bat,14.8,Male,visa,Jacksonville,54,20
+Laverna,Watch,224.6,Female,visa,Houston,25,52
+Danie,Headphones,89.3,Male,visa,San Diego,65,44
+Ansell,Jacket,19.7,Male,visa,Jacksonville,59,52
+Dru,Bag,21.2,Male,visa,Philadelphia,41,13
+Warde,Belt,25.5,Male,visa,Philadelphia,47,57
+Creight,Book,74.8,Male,visa,Philadelphia,38,29
+Antonin,Bat,1469.5,Male,visa,Austin,48,13
+Dionne,Shoes,24.1,Female,visa,Jacksonville,52,52
+Hakeem,Shirt,40.5,Male,visa,Los Angeles,33,59
+Donnie,Watch,82.1,Female,visa,San Antonio,39,24
+Kaja,Jacket,24.3,Female,visa,Jacksonville,38,55
+Waring,Shoes,38.0,Male,visa,Phoenix,53,20
+Enrique,Sunglasses,50.0,Male,visa,Houston,48,27
+Chuck,Wallet,102.1,Male,visa,Chicago,54,25
+Jeanelle,Headphones,63.8,Female,visa,Houston,32,27
+Claudio,Wallet,181.8,Male,visa,Philadelphia,58,14
+Kelli,Headphones,24.4,Female,visa,Chicago,68,31
+Hetti,Watch,1431.9,Female,visa,New York,36,27
+Olivier,Shirt,88.4,Male,visa,Philadelphia,59,44
+Tybie,Headphones,81.2,Female,visa,Austin,57,54
+Maurita,Watch,60.0,Female,visa,Jacksonville,57,60
+Barris,Watch,147.7,Male,visa,Houston,50,30
+Reinold,Jacket,44.3,Male,visa,San Diego,30,11
+Darin,Belt,1296.9,Male,visa,Houston,24,30
+Emilee,Shoes,67.5,Female,visa,San Jose,38,30
+Drona,Headphones,586.3,Female,visa,Los Angeles,55,39
+Erinna,Laptop,32.4,Female,visa,Dallas,47,27
+Kari,Jacket,24.0,Female,visa,Philadelphia,62,54
+Nikaniki,Scarf,1202.4,Female,visa,Dallas,57,59
+Reider,Sunglasses,94.8,Male,visa,New York,59,16
+Barbabra,Sunglasses,132.0,Female,visa,Austin,19,41
+Mireielle,Smartphone,332.6,Female,visa,Chicago,68,23
+Norris,Scarf,21.1,Male,visa,Los Angeles,58,25
+Gwennie,Belt,148.3,Female,visa,Austin,54,12
+Meara,Watch,1356.9,Female,visa,Houston,32,43
+Katina,Bag,72.7,Female,visa,Phoenix,43,19
+Darelle,Book,22.6,Female,visa,Houston,49,21
+Rosalie,Shoes,19.4,Female,visa,San Jose,65,10
+Patty,Headphones,114.6,Female,visa,Dallas,21,14
+Haroun,Belt,394.1,Male,visa,Jacksonville,63,29
+Bartel,Wallet,17.4,Male,visa,Philadelphia,18,40
+Anni,Smartphone,817.3,Female,visa,San Jose,20,48
+Even,Shoes,119.3,Male,visa,Houston,51,37
+Lora,Sunglasses,18.2,Female,visa,Jacksonville,64,19
+Cchaddie,Shoes,66.0,Male,visa,Dallas,51,44
+Shaw,Ball,53.2,Male,mastercard,San Diego,47,59
+Katalin,Shoes,26.9,Female,mastercard,San Antonio,21,41
+Darcey,Jacket,130.4,Female,mastercard,Austin,55,28
+Spenser,Shoes,1166.1,Male,mastercard,Dallas,46,50
+Chen,Watch,42.9,Male,mastercard,Dallas,45,21
+Agnesse,Laptop,53.8,Female,mastercard,New York,19,56
+Stacy,Watch,25.1,Female,mastercard,Austin,53,12
+Marcia,Shoes,47.6,Female,mastercard,Philadelphia,27,23
+Babs,Jacket,20.4,Female,mastercard,Dallas,28,45
+Riordan,Shoes,26.2,Male,mastercard,Los Angeles,50,29
+Jerry,Watch,143.1,Male,mastercard,Austin,62,45
+Anny,Ball,35.4,Female,mastercard,Austin,62,40
+Justinian,Sunglasses,28.2,Male,mastercard,New York,33,54
+Kurt,Smartphone,971.9,Male,mastercard,San Diego,43,29
+Kaspar,Ball,113.2,Male,mastercard,San Diego,24,32
+Noel,Sunglasses,51.1,Male,mastercard,New York,22,21
+Charlie,Smartphone,39.4,Male,mastercard,San Diego,47,40
+Berni,Bat,96.0,Female,mastercard,Jacksonville,21,19
+Rafe,Wallet,18.9,Male,mastercard,Los Angeles,32,24
+Ardenia,Jacket,12.4,Female,mastercard,Chicago,35,47
+Loutitia,Headphones,49.6,Female,mastercard,Jacksonville,70,19
+Benoit,Shoes,38.7,Male,mastercard,Phoenix,37,26
+Julienne,Ball,58.2,Female,visa,Phoenix,38,21
+Graig,Belt,523.5,Male,visa,San Antonio,60,24
+Bobina,Belt,825.6,Female,visa,New York,44,35
+Trumaine,Belt,69.6,Male,visa,Dallas,56,42
+Uriel,Laptop,12.0,Male,visa,Houston,33,12
+Gwenora,Laptop,48.3,Female,visa,Philadelphia,61,35
+Baillie,Scarf,84.5,Male,visa,Houston,25,59
+Alexander,Belt,61.4,Male,visa,Houston,23,27
+Madison,Shirt,49.3,Male,mastercard,Jacksonville,60,27
+Esra,Watch,66.1,Male,visa,Los Angeles,20,37
+Lisette,Bat,876.9,Female,visa,New York,61,28
+Nicholle,Watch,20.2,Female,visa,San Antonio,47,16
+Hal,Belt,30.8,Male,mastercard,Chicago,45,35
+Mirabelle,Scarf,85.5,Female,visa,Dallas,65,37
+Webb,Wallet,1162.5,Male,visa,Jacksonville,62,25
+Lisha,Laptop,130.1,Female,visa,San Diego,45,29
+Margarette,Smartphone,139.4,Female,visa,Phoenix,50,12
+Alanah,Headphones,22.4,Female,visa,Dallas,21,51
+Fionna,Shirt,81.2,Female,visa,Houston,23,45
+Maxy,Shoes,36.5,Male,visa,San Jose,63,22
+Meredith,Sunglasses,118.1,Female,mastercard,Austin,35,42
+Bernarr,Headphones,29.7,Male,visa,San Jose,44,19
+Genevieve,Book,1433.2,Female,visa,San Diego,42,41
+Rycca,Bag,113.8,Female,visa,Chicago,52,16
+Demetre,Sunglasses,169.6,Male,mastercard,Austin,32,11
+Laurence,Wallet,120.2,Male,visa,Austin,20,39
+Nikola,Ball,17.9,Male,visa,Jacksonville,53,18
+Bartram,Book,97.3,Male,visa,Phoenix,24,40
+Ollie,Ball,32.0,Male,visa,San Jose,21,45
+Beverie,Bag,80.0,Female,visa,Los Angeles,23,29
+Izaak,Scarf,57.1,Male,visa,Philadelphia,40,34
+Lanae,Watch,24.4,Female,visa,Phoenix,47,26
+Louis,Scarf,22.4,Male,visa,San Diego,37,40
+Jerome,Shoes,111.6,Male,visa,Dallas,66,21
+Sam,Headphones,11.6,Female,visa,Houston,27,33
+Stella,Laptop,197.6,Female,visa,San Jose,41,20
+Niel,Book,67.8,Male,mastercard,San Antonio,69,13
+Jerald,Belt,20.4,Male,visa,Dallas,56,58
+August,Sunglasses,49.7,Male,visa,Houston,38,13
+Noach,Shoes,342.5,Male,visa,Chicago,70,46
+Eliot,Bag,19.4,Male,visa,Philadelphia,50,37
+Tamarah,Scarf,51.2,Female,mastercard,Chicago,23,45
+Tye,Jacket,109.8,Male,visa,New York,26,50
+Mureil,Sunglasses,22.7,Female,visa,Phoenix,40,46
+Howard,Smartphone,161.8,Male,visa,Jacksonville,60,46
+Don,Laptop,20.1,Male,mastercard,Austin,53,52
+Randie,Shirt,49.0,Female,visa,Los Angeles,24,45
+Bibby,Ball,65.8,Female,visa,Jacksonville,49,56
+Willamina,Shirt,133.5,Female,visa,Austin,68,51
+Ellynn,Smartphone,59.4,Female,mastercard,Jacksonville,70,22
+Erroll,Bag,59.0,Male,mastercard,Philadelphia,43,33
+Gasper,Jacket,69.3,Male,mastercard,New York,67,35
+Gibb,Sunglasses,101.9,Male,visa,Chicago,60,43
+Pyotr,Scarf,55.7,Male,visa,Jacksonville,36,50
+Sabine,Laptop,886.5,Female,visa,Philadelphia,63,44
+Aubry,Smartphone,11.1,Female,visa,Los Angeles,27,46
+Keeley,Scarf,21.9,Female,visa,Dallas,20,45
+Briana,Book,72.5,Female,visa,Dallas,34,54
+Murray,Scarf,51.2,Male,mastercard,Phoenix,59,57
+Shane,Scarf,19.6,Male,visa,San Jose,63,33
+Reinhold,Book,241.8,Male,visa,New York,52,35
+Carlotta,Laptop,22.4,Female,visa,San Jose,70,16
+Rafaela,Scarf,21.9,Female,visa,New York,42,27
+Kareem,Shirt,46.9,Male,mastercard,Austin,38,13
+Sheilakathryn,Bag,71.2,Female,visa,Chicago,42,51
+Carmelia,Wallet,95.4,Female,visa,Austin,51,29
+Nikolas,Bag,47.5,Male,visa,New York,39,42
+Barn,Book,52.8,Male,visa,San Antonio,48,55
+Hastie,Wallet,120.8,Male,visa,Austin,40,19
+Goddard,Laptop,143.4,Male,visa,Austin,38,53
+Karney,Laptop,123.6,Male,visa,Dallas,40,16
+Rafe,Ball,21.4,Male,visa,Philadelphia,33,31
+Gwendolin,Bat,81.7,Female,visa,San Antonio,44,23
+Normie,Laptop,482.5,Male,visa,San Diego,60,15
+Alan,Scarf,94.1,Male,visa,New York,65,58
+Nicoline,Laptop,1390.1,Female,visa,New York,28,39
+Erny,Laptop,41.1,Male,visa,Austin,27,43
+Tremaine,Sunglasses,154.9,Male,visa,San Antonio,24,53
+Obie,Headphones,17.3,Male,visa,Phoenix,37,48
+Kora,Shirt,95.7,Female,visa,Chicago,35,15
+Kendall,Belt,67.7,Male,visa,Dallas,49,18
+Ignacio,Headphones,17.2,Male,visa,Dallas,61,47
+Jaquenette,Bag,11.3,Female,visa,Los Angeles,38,10
+Vladimir,Ball,173.1,Male,visa,San Antonio,41,17
+Andriana,Jacket,127.7,Female,visa,Austin,48,25
+Evonne,Book,78.0,Female,mastercard,San Antonio,25,50
+Rutledge,Belt,154.8,Male,mastercard,Austin,55,36
+Celesta,Bat,35.0,Female,mastercard,Jacksonville,50,11
+Rhett,Sunglasses,10.1,Male,mastercard,Philadelphia,45,45
+Kaile,Belt,586.1,Female,mastercard,Chicago,21,48
+Austin,Sunglasses,38.8,Male,mastercard,Houston,31,48
+Randi,Shoes,30.1,Male,mastercard,San Diego,19,52
+Ogden,Laptop,179.7,Male,mastercard,Houston,59,14
+Dani,Smartphone,99.3,Female,mastercard,Dallas,61,55
+Verney,Smartphone,37.0,Male,mastercard,Phoenix,26,12
+Silvano,Shirt,165.4,Male,mastercard,Houston,63,28
+Bendite,Shoes,93.3,Female,visa,Philadelphia,32,11
+Beverley,Headphones,33.7,Female,visa,Chicago,19,11
+Neille,Sunglasses,79.2,Female,visa,New York,47,15
+Lauraine,Smartphone,231.2,Female,visa,San Diego,48,48
+Sheelagh,Sunglasses,31.1,Female,visa,Austin,29,43
+Berry,Jacket,784.8,Female,visa,San Antonio,19,37
+Lavinia,Book,270.2,Female,visa,Houston,33,53
+Terencio,Bat,46.7,Male,visa,Dallas,34,28
+Sheff,Laptop,87.6,Male,visa,San Jose,28,24
+Dianna,Scarf,10.5,Female,visa,Philadelphia,24,41
+Lemuel,Book,34.3,Male,visa,Houston,41,14
+Valli,Laptop,95.0,Female,visa,Austin,46,22
+Cirstoforo,Scarf,82.0,Male,visa,Phoenix,25,30
+Helga,Laptop,75.8,Female,visa,Houston,31,49
+Karlik,Bat,28.0,Male,visa,Dallas,64,15
+Heda,Bat,77.5,Female,visa,San Antonio,21,34
+Wendy,Shoes,18.1,Female,visa,Dallas,66,25
+Dominica,Bag,16.6,Female,mastercard,Chicago,52,46
+Tamas,Laptop,214.0,Male,mastercard,Los Angeles,27,49
+Noak,Smartphone,16.9,Male,mastercard,Los Angeles,50,17
+Melodie,Jacket,1216.6,Female,mastercard,Los Angeles,24,22
+Mareah,Shirt,24.2,Female,mastercard,Austin,65,24
+Karry,Shirt,92.2,Female,mastercard,San Diego,31,26
+Cati,Book,18.5,Female,mastercard,Jacksonville,47,34
+Jody,Scarf,161.7,Female,mastercard,Phoenix,55,24
+Roobbie,Shirt,155.7,Female,mastercard,Phoenix,42,14
+Forrester,Smartphone,40.2,Male,mastercard,Philadelphia,68,59
+Nita,Watch,1030.1,Female,mastercard,Los Angeles,36,54
+Alex,Belt,68.4,Female,mastercard,Philadelphia,46,43
+Jaclyn,Headphones,103.5,Female,mastercard,Jacksonville,29,53
+Craggie,Shoes,78.0,Male,mastercard,Austin,44,20
+Emilee,Scarf,55.3,Female,mastercard,Los Angeles,58,59
+Guilbert,Bag,87.4,Male,mastercard,Austin,65,46
+Frederica,Belt,50.7,Female,mastercard,San Antonio,39,48
+Gerianna,Wallet,46.8,Female,visa,Jacksonville,58,36
+Sigvard,Ball,25.7,Male,visa,Los Angeles,33,36
+Jillene,Bat,17.4,Female,visa,Dallas,70,34
+Cally,Wallet,211.3,Female,visa,Jacksonville,46,50
+Malchy,Laptop,162.3,Male,visa,Philadelphia,32,59
+Ferrel,Scarf,128.3,Male,visa,Jacksonville,52,50
+Concettina,Jacket,23.0,Female,visa,San Antonio,18,44
+Lorri,Book,10.9,Female,visa,Los Angeles,29,20
+Roana,Watch,27.7,Female,visa,Phoenix,54,26
+Johann,Bag,116.7,Male,visa,Houston,37,45
+Aylmer,Watch,134.1,Male,visa,Los Angeles,48,13
+Anna-diane,Bat,254.6,Female,visa,Los Angeles,29,59
+Bernadine,Jacket,28.7,Female,visa,San Jose,39,53
+Christoper,Headphones,66.4,Male,visa,San Diego,42,34
+Gerik,Shoes,944.1,Male,visa,Austin,62,26
+Heriberto,Ball,42.6,Male,mastercard,Austin,49,39
+Durand,Bag,63.3,Male,visa,Dallas,59,23
+Courtnay,Shoes,38.8,Female,visa,Chicago,30,25
+Tallie,Headphones,39.7,Female,visa,New York,32,33
+Mervin,Shirt,753.0,Male,visa,Phoenix,70,42
+Malena,Bat,38.7,Female,visa,San Diego,24,35
+Ches,Belt,1193.2,Male,mastercard,Los Angeles,46,20
+Rosella,Belt,19.6,Female,visa,Philadelphia,48,30
+Logan,Shirt,77.5,Male,mastercard,Houston,59,20
+Ginevra,Bat,115.3,Female,mastercard,Dallas,23,28
+Falkner,Wallet,1362.2,Male,mastercard,Houston,45,27
+Robbin,Smartphone,57.1,Female,mastercard,Houston,55,15
+Ravid,Wallet,249.8,Male,mastercard,New York,47,52
+Artemis,Headphones,46.1,Male,mastercard,Phoenix,22,20
+Hube,Watch,144.4,Male,visa,Houston,64,52
+Harp,Watch,66.0,Male,visa,Austin,26,24
+Junie,Sunglasses,142.1,Female,visa,Los Angeles,20,11
+Wildon,Sunglasses,52.1,Male,visa,New York,55,44
+Marty,Sunglasses,78.2,Male,visa,New York,46,24
+Shadow,Wallet,229.3,Male,mastercard,San Jose,67,46
+Sasha,Bat,17.7,Female,mastercard,San Diego,23,26
+Shaine,Shirt,393.9,Male,visa,Dallas,57,10
+Meggy,Headphones,274.7,Female,visa,New York,25,52
+Lorenza,Ball,25.3,Female,visa,Phoenix,31,59
+Charity,Scarf,382.3,Female,visa,Dallas,45,39
+Neil,Scarf,25.7,Male,mastercard,Chicago,47,12
+Brewer,Ball,57.1,Male,mastercard,Austin,65,31
+Stacy,Jacket,44.1,Female,mastercard,Houston,66,37
+Pauletta,Book,169.7,Female,mastercard,Dallas,29,55
+Yoko,Scarf,135.4,Female,visa,Austin,38,35
+Vittorio,Laptop,67.0,Male,visa,Phoenix,38,49
+Dewain,Sunglasses,489.0,Male,visa,Philadelphia,44,24
+Vivyan,Ball,210.5,Female,visa,Phoenix,26,31
+Cristin,Belt,98.9,Female,visa,Los Angeles,31,36
+Ring,Headphones,37.3,Male,visa,Jacksonville,46,15
+Hebert,Book,61.5,Male,visa,New York,46,35
+Nessi,Jacket,139.5,Female,visa,San Diego,56,54
+Benedetta,Belt,127.3,Female,visa,New York,30,31
+Candi,Ball,29.0,Female,visa,Houston,22,18
+Padget,Sunglasses,287.2,Male,visa,Chicago,67,52
+Mariette,Bat,50.8,Female,mastercard,Austin,66,29
+Tally,Scarf,49.3,Male,mastercard,San Antonio,53,36
+Basile,Jacket,57.2,Male,mastercard,San Antonio,56,55
+Liliane,Wallet,297.0,Female,mastercard,San Jose,25,57
+Emmie,Ball,11.0,Female,mastercard,Houston,66,46
+Odessa,Shoes,16.9,Female,mastercard,San Diego,66,56
+Scot,Jacket,61.5,Male,visa,San Diego,66,32
+Emogene,Wallet,43.5,Female,visa,San Diego,19,12
+Brear,Belt,14.0,Female,visa,San Antonio,63,47
+Bernardine,Watch,137.2,Female,visa,Houston,29,56
+Gilda,Shoes,32.6,Female,visa,San Jose,66,44
+Sherry,Shirt,24.7,Female,visa,Chicago,32,57
+Stesha,Sunglasses,22.1,Female,visa,San Diego,67,20
+Aldric,Bat,567.0,Male,visa,San Jose,29,32
+Derril,Book,71.0,Male,visa,Los Angeles,70,31
+Randie,Scarf,47.8,Female,visa,Philadelphia,47,36
+Bibbye,Belt,107.5,Female,mastercard,New York,53,45
+Britteny,Watch,58.8,Female,mastercard,Philadelphia,23,13
+Darryl,Ball,10.6,Male,mastercard,Phoenix,24,26
+Harlan,Laptop,87.7,Male,mastercard,Phoenix,55,31
+Jennine,Watch,31.7,Female,mastercard,San Jose,58,50
+Cam,Watch,704.1,Male,mastercard,New York,47,49
+Horton,Jacket,29.5,Male,visa,Houston,35,17
+Orson,Bat,149.1,Male,visa,Chicago,56,27
+Eddy,Ball,28.2,Male,visa,Jacksonville,19,14
+Margalit,Smartphone,136.1,Female,visa,New York,47,49
+Arturo,Scarf,768.8,Male,visa,New York,29,40
+Svend,Laptop,25.6,Male,visa,Philadelphia,52,28
+Gallagher,Watch,195.9,Male,visa,Los Angeles,31,44
+Starlene,Bag,39.1,Female,visa,Philadelphia,65,16
+Ad,Ball,53.4,Male,visa,Dallas,45,58
+Corny,Sunglasses,31.8,Male,visa,Los Angeles,67,17
+Lemar,Ball,131.4,Male,visa,Chicago,57,45
+Hester,Bag,12.1,Female,visa,Philadelphia,62,48
+Adlai,Book,42.7,Male,visa,Los Angeles,59,22
+Marybelle,Sunglasses,908.8,Female,visa,San Diego,61,19
+Enoch,Wallet,262.1,Male,visa,Chicago,59,55
+Matilda,Watch,83.3,Female,visa,Chicago,24,20
+Adan,Shirt,33.9,Female,visa,San Antonio,35,47
+Nanci,Smartphone,32.8,Female,mastercard,New York,25,46
+Nicky,Ball,49.1,Male,mastercard,Phoenix,44,42
+Hersh,Ball,41.3,Male,mastercard,San Antonio,31,17
+Carmela,Bat,16.0,Female,visa,San Diego,57,35
+Emanuele,Shirt,70.0,Male,visa,Phoenix,42,55
+Barr,Laptop,1483.4,Male,mastercard,Phoenix,48,40
+Jozef,Bag,131.2,Male,visa,Chicago,21,49
+Flin,Wallet,530.9,Male,visa,Dallas,31,59
+Andrey,Sunglasses,93.7,Male,mastercard,San Antonio,38,24
+Adlai,Scarf,22.0,Male,mastercard,New York,58,47
+Waly,Sunglasses,32.3,Female,mastercard,Los Angeles,45,50
+Laurens,Shirt,105.2,Male,mastercard,Phoenix,22,55
+Daniel,Shirt,46.9,Male,mastercard,Chicago,34,49
+Gare,Watch,889.9,Male,mastercard,Philadelphia,40,32
+Ramon,Bat,40.3,Male,mastercard,Dallas,40,36
+Irv,Bag,45.7,Male,mastercard,Dallas,65,33
+Birk,Wallet,23.1,Male,mastercard,Philadelphia,52,15
+Clemente,Sunglasses,23.1,Male,mastercard,San Jose,40,40
+Sheilakathryn,Watch,12.6,Female,mastercard,Philadelphia,20,22
+Audi,Belt,616.9,Female,mastercard,San Jose,21,33
+Eric,Ball,27.0,Male,mastercard,San Jose,28,37
+Querida,Belt,110.8,Female,visa,San Jose,28,36
+Torry,Watch,1056.7,Male,visa,New York,42,53
+Elena,Ball,33.8,Female,visa,Chicago,27,31
+Caitlin,Laptop,83.3,Female,visa,Los Angeles,30,15
+Ervin,Bat,88.9,Male,visa,Los Angeles,50,40
+Hadria,Bag,21.8,Female,visa,Houston,42,48
+Inger,Jacket,25.6,Female,visa,Phoenix,20,25
+Marsha,Belt,22.7,Female,mastercard,San Diego,52,35
+Binnie,Wallet,121.7,Female,mastercard,Houston,50,31
+Etta,Smartphone,73.9,Female,mastercard,San Jose,59,18
+Colly,Headphones,125.8,Female,mastercard,New York,69,42
+Brose,Scarf,116.4,Male,mastercard,Jacksonville,33,37
+Pavel,Headphones,16.4,Male,mastercard,Austin,58,40
+Randi,Headphones,17.3,Male,mastercard,Los Angeles,62,58
+Cobby,Bat,540.1,Male,mastercard,San Antonio,44,30
+Ninnette,Belt,15.5,Female,mastercard,Philadelphia,27,31
+Wang,Headphones,995.8,Male,mastercard,Los Angeles,36,30
+Timmie,Shirt,143.3,Female,visa,Dallas,21,16
+Max,Jacket,28.8,Female,visa,New York,52,34
+Darcie,Sunglasses,33.9,Female,visa,Jacksonville,51,14
+Kerianne,Belt,23.4,Female,visa,New York,49,16
+Harlin,Shirt,24.0,Male,visa,Austin,21,21
+Kora,Belt,554.8,Female,visa,San Diego,48,35
+Barth,Shoes,648.6,Male,visa,Houston,64,48
+Poul,Laptop,108.6,Male,visa,New York,21,37
+De,Shirt,114.0,Female,visa,Dallas,36,59
+Aleda,Shirt,85.0,Female,visa,Philadelphia,63,43
+Pedro,Book,747.8,Male,visa,Chicago,70,36
+Graeme,Sunglasses,120.6,Male,visa,Houston,33,50
+Thurstan,Laptop,13.0,Male,visa,Jacksonville,65,24
+Zsazsa,Jacket,94.4,Female,mastercard,Chicago,60,45
+Elmer,Ball,42.0,Male,mastercard,Philadelphia,28,16
+Dorri,Watch,23.9,Female,mastercard,Houston,67,33
+Gawen,Sunglasses,36.9,Male,mastercard,San Diego,40,18
+Cos,Book,40.4,Male,visa,San Diego,62,40
+Jere,Shoes,38.9,Female,visa,Jacksonville,35,10
+Darb,Jacket,230.2,Female,visa,Austin,67,37
+Gannie,Watch,89.4,Male,visa,Dallas,50,47
+Randolph,Smartphone,179.5,Male,visa,San Jose,41,50
+Jodee,Shirt,22.1,Female,visa,Dallas,59,46
+Danyelle,Bat,21.8,Female,visa,Los Angeles,24,38
+Nita,Shirt,179.4,Female,visa,San Jose,42,38
+Garrard,Laptop,62.1,Male,visa,Philadelphia,33,25
+Angeli,Laptop,746.9,Male,visa,Houston,19,28
+Maynard,Bag,14.5,Male,visa,Dallas,47,41
+Roze,Belt,124.8,Female,visa,New York,36,18
+Efrem,Watch,14.0,Male,mastercard,San Diego,20,15
+Maximilian,Book,66.6,Male,visa,San Jose,34,41
+Christophe,Ball,227.9,Male,mastercard,Chicago,47,38
+Andy,Bat,99.1,Male,mastercard,San Antonio,67,55
+Cele,Ball,674.1,Female,mastercard,Austin,37,17
+Morena,Laptop,71.9,Female,mastercard,San Jose,38,13
+Antony,Ball,10.9,Male,mastercard,San Antonio,54,37
+Madelon,Bat,27.3,Female,visa,Los Angeles,67,58
+Iggie,Smartphone,1005.5,Male,visa,New York,28,18
+Ikey,Shirt,206.6,Male,visa,Jacksonville,36,11
+Gualterio,Laptop,35.9,Male,visa,New York,52,51
+Gale,Scarf,28.0,Female,visa,Houston,24,12
+Alva,Headphones,297.8,Male,visa,San Antonio,49,52
+Brande,Bag,1454.4,Female,visa,Houston,21,46
+Beaufort,Sunglasses,218.2,Male,visa,San Diego,70,18
+Clifford,Ball,17.9,Male,visa,Philadelphia,20,19
+Eada,Wallet,98.7,Female,visa,Jacksonville,35,21
+Asia,Sunglasses,22.6,Female,visa,Dallas,59,16
+Chad,Belt,724.0,Male,visa,Phoenix,52,55
+Rustin,Ball,33.4,Male,mastercard,San Diego,55,31
+Ody,Shoes,128.7,Male,mastercard,Phoenix,39,40
+Decca,Bat,27.1,Male,mastercard,Philadelphia,26,59
+Alleen,Ball,122.8,Female,mastercard,Houston,19,55
+Dav,Laptop,68.6,Male,mastercard,Dallas,31,29
+Kristoffer,Headphones,73.9,Male,mastercard,Austin,30,30
+Consolata,Belt,17.5,Female,mastercard,Philadelphia,36,27
+Emlynn,Sunglasses,101.8,Female,visa,San Jose,26,14
+Cate,Sunglasses,38.7,Female,visa,Jacksonville,57,33
+Joey,Bat,11.0,Male,visa,San Jose,65,45
+Say,Bat,18.9,Male,visa,San Diego,49,19
+Danice,Watch,265.8,Female,visa,San Jose,59,25
+Burlie,Book,155.5,Male,visa,Chicago,22,33
+Lanna,Ball,121.6,Female,visa,Chicago,57,56
+Krishna,Headphones,749.4,Male,visa,Houston,70,46
+Silvan,Bag,513.3,Male,visa,San Jose,67,44
+Lauralee,Wallet,12.5,Female,visa,Dallas,62,36
+Ximenez,Sunglasses,40.4,Male,visa,Jacksonville,50,31
+Gannie,Bat,15.9,Male,visa,Phoenix,60,31
+Andie,Laptop,468.3,Female,visa,Jacksonville,22,24
+Tarah,Belt,25.1,Female,visa,San Diego,46,49
+Constancy,Ball,13.6,Female,mastercard,Houston,32,32
+Jacquenette,Bag,101.2,Female,mastercard,Houston,58,20
+Darb,Bag,107.9,Female,mastercard,San Antonio,67,31
+Nickie,Belt,189.2,Male,mastercard,Jacksonville,64,52
+Inglebert,Belt,76.8,Male,mastercard,Los Angeles,59,40
+Silvester,Smartphone,110.0,Male,mastercard,San Jose,22,50
+Codi,Laptop,35.5,Female,mastercard,New York,64,19
+Cissiee,Bat,99.5,Female,visa,Chicago,69,28
+Cordell,Smartphone,265.2,Male,visa,San Jose,23,16
+Justine,Sunglasses,30.4,Female,visa,Dallas,56,22
+Yule,Laptop,85.5,Male,visa,Austin,37,14
+Edmund,Belt,395.1,Male,visa,Phoenix,34,45
+Edwin,Shirt,18.1,Male,visa,San Jose,31,25
+Bertrand,Laptop,52.3,Male,visa,Austin,63,10
+Ashlen,Book,37.0,Female,visa,San Antonio,38,21
+Hall,Bat,76.2,Male,visa,Chicago,62,24
+Issiah,Scarf,138.5,Male,visa,Austin,63,28
+Chrystel,Sunglasses,179.2,Female,visa,Chicago,20,44
+Carl,Laptop,1084.3,Male,visa,San Diego,58,22
+Tuesday,Shirt,44.2,Female,visa,Chicago,24,11
+Cacilia,Scarf,11.9,Female,visa,Houston,27,18
+Chloe,Belt,25.3,Female,visa,Phoenix,65,50
+Cher,Scarf,24.7,Female,visa,Jacksonville,25,12
+Luci,Belt,146.5,Female,visa,San Diego,60,10
+Reube,Jacket,61.5,Male,visa,New York,64,42
+Gretna,Shoes,283.7,Female,visa,Los Angeles,21,28
+Jimmie,Shirt,134.9,Male,mastercard,Philadelphia,32,53
+Grazia,Bag,20.8,Female,mastercard,Houston,25,14
+Salomi,Shirt,167.0,Female,mastercard,Jacksonville,49,55
+Ailene,Shirt,692.1,Female,mastercard,Dallas,60,52
+Storm,Shirt,37.8,Female,mastercard,Austin,56,41
+Remington,Headphones,575.4,Male,mastercard,New York,58,53
+Reena,Book,106.0,Female,mastercard,Dallas,30,56
+Norene,Watch,70.9,Female,mastercard,Los Angeles,61,12
+Shawn,Shirt,902.2,Male,mastercard,New York,66,23
+Giacobo,Shoes,52.1,Male,mastercard,Phoenix,39,20
+Cindee,Watch,90.0,Female,visa,Jacksonville,64,56
+Maria,Laptop,125.5,Female,visa,Los Angeles,36,15
+Glynnis,Shirt,96.9,Female,visa,San Diego,37,26
+Allayne,Bag,21.6,Male,visa,New York,47,41
+Stephine,Headphones,56.3,Female,visa,Phoenix,62,37
+Alec,Shirt,15.5,Male,visa,San Diego,60,23
+Etan,Sunglasses,135.7,Male,mastercard,Austin,38,41
+Lark,Wallet,26.8,Female,mastercard,Jacksonville,56,25
+Reg,Shirt,200.9,Male,mastercard,San Jose,22,20
+Lion,Book,19.7,Male,visa,Dallas,59,26
+Alexis,Book,68.2,Male,visa,San Diego,29,23
+Cherry,Shirt,87.6,Female,visa,New York,31,40
+Konstantin,Wallet,967.2,Male,visa,Los Angeles,39,15
+Guilbert,Book,98.6,Male,mastercard,New York,43,50
+Reidar,Smartphone,21.4,Male,visa,San Diego,27,36
+Rowe,Shirt,78.9,Female,visa,San Jose,23,35
+Artie,Headphones,70.7,Male,visa,San Antonio,55,31
+Meade,Smartphone,51.3,Female,visa,San Jose,48,33
+Lenore,Belt,65.4,Female,visa,Austin,50,22
+Willi,Ball,87.9,Female,visa,San Jose,33,34
+Shae,Shoes,24.3,Female,visa,Los Angeles,64,41
+Ally,Wallet,42.8,Female,mastercard,Los Angeles,28,18
+Desi,Wallet,26.7,Male,mastercard,Phoenix,21,24
+Kristopher,Bat,16.8,Male,mastercard,Houston,44,36
+Caddric,Sunglasses,571.2,Male,mastercard,Dallas,25,22
+Meggi,Smartphone,167.9,Female,mastercard,San Diego,54,36
+Dolli,Book,24.6,Female,mastercard,Houston,61,15
+Lorenza,Bat,115.2,Female,mastercard,Jacksonville,61,28
+Aubine,Ball,1049.8,Female,mastercard,San Jose,20,52
+Tyler,Wallet,199.0,Male,mastercard,San Jose,36,22
+Shaylyn,Belt,147.6,Female,mastercard,Los Angeles,41,42
+Patti,Bat,104.8,Female,mastercard,Phoenix,56,40
+Clerkclaude,Ball,12.0,Male,visa,Phoenix,53,56
+Lynnell,Laptop,37.1,Female,mastercard,Chicago,64,23
