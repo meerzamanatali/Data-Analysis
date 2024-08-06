@@ -16,7 +16,7 @@ This project is a web-based data analysis dashboard built using Django, Pandas, 
 - Matplotlib: Library for creating static, interactive, and animated visualizations.
 - Bootstrap: Framework for styling and responsive design.
 
-##How It Works
+## How It Works
 1. Upload CSV File: Users can upload a CSV file via the web interface. The file is then processed and stored for analysis.
 2. Select Columns: Users can select numerical or categorical columns for analysis through dropdown menus.
 3. Numerical Columns: View mean, median, and standard deviation with corresponding charts (histogram, boxplot, scatter plot).
