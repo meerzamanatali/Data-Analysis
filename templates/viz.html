@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analysis</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #91c6fa; /* Light background color */
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            margin: 10px;
+        }
+
+        .form-container {
+            margin-bottom: 20px;
+        }
+
+        .table-container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+        .table-content {
+            flex: 1;
+            margin-right: 20px;
+        }
+
+        .table {
+            background-color: #ffffff; 
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        table, th, td {
+            border: 1px solid #dee2e6; 
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #007bff; 
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2; 
+        }
+
+        tr:hover {
+            background-color: #e9ecef; 
+        }
+
+        .statistical-boxes {
+            display: flex;
+            gap: 75px;
+            flex-direction: row;
+            margin-bottom: 20px;
+            margin: auto;
+            width: 600px; 
+        }
+
+        .box {
+            border-radius: 8px;
+            padding: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            min-width: 150px;
+            min-height: 60px; 
+            text-align: center;
+            background-color: #ffffff; 
+            border: 1px solid #e0e0e0;
+            flex-grow: 1;
+        }
+
+        .box h3 {
+            margin: 0;
+            font-size: 14px; 
+            color: #333;
+        }
+
+        .box p {
+            font-size: 16px; 
+            color: #555;
+        }
+
+        .charts-container {
+            display: flex;
+            flex-wrap: wrap;
+             justify-content: center; /* Centers the charts horizontally */
+           gap: 10px; /* Space between charts */
+            margin-top: 20px; /* Optional: Add space above the charts */
+        }
+
+        .chart {
+            width: calc(33.33% - 20px); /* Three charts per row with gap */
+            margin: 5px 0; /* Vertical margin to add space between rows */
+        }
+
+        .chart img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .btn-custom {
+            background-color: #007bff; /* Bootstrap primary color */
+            color: white;
+            border: none;
+        }
+
+        .btn-custom:hover {
+            background-color: #0056b3; /* Darker shade of primary color */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Data Analysis</h1>
+
+        <div class="form-container">
+            <form method="post">
+                {% csrf_token %}
+                <fieldset class="form-group">
+                    <legend>Numerical Columns</legend>
+                    <div class="form-group">
+                        <label for="numeric_options1">Choose a numerical option:</label>
+                        <select name="selected_numeric_option1" id="numeric_options1" class="form-control">
+                            {% for option in numerical_options %}
+                                <option value="{{ option }}">{{ option }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="numeric_options2">Choose another numerical option:</label>
+                        <select name="selected_numeric_option2" id="numeric_options2" class="form-control">
+                            {% for option in numerical_options %}
+                                <option value="{{ option }}">{{ option }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </fieldset>
+
+                <button type="submit" name="form_type" value="numerical" class="btn btn-custom">Submit Numerical Options</button>
+            </form>
+
+            <form method="post">
+                {% csrf_token %}
+                <fieldset class="form-group">
+                    <legend>Categorical Columns</legend>
+                    <div class="form-group">
+                        <label for="categorical_options">Choose a categorical option:</label>
+                        <select name="selected_categorical_option" id="categorical_options" class="form-control">
+                            {% for option in categorical_options %}
+                                <option value="{{ option }}">{{ option }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </fieldset>
+
+                <button type="submit" name="form_type" value="categorical" class="btn btn-custom">Submit Categorical Option</button>
+            </form>
+        </div>
+
+        <div class="table-container">
+            <div class="table-content">
+                <div class="table">
+                    {{ summary_html|safe }}
+                </div>
+            </div>
+        </div>
+        <div class="statistical-boxes">
+            {% if selected_numeric_option1 %}
+                <div class="box">
+                    <h3>Mean</h3>
+                    <p>{{ mean_value }}</p>
+                </div>
+                <div class="box">
+                    <h3>Median</h3>
+                    <p>{{ median_value }}</p>
+                </div>
+                <div class="box">
+                    <h3>Standard Deviation</h3>
+                    <p>{{ std_value }}</p>
+                </div>
+            {% elif selected_categorical_option %}
+                <div class="box">
+                    <h3>Mode</h3>
+                    <p>{{ mode_value }}</p>
+                </div>
+                <div class="box">
+                    <h3>Unique Values</h3>
+                    <p>{{ unique_values }}</p>
+                </div>
+            {% endif %}
+        </div>
+        {% if selected_numeric_option1 or selected_categorical_option %}
+            <div class="charts-container">
+                {% if selected_numeric_option1 %}
+                    <div class="chart">
+                        <img src="data:image/png;base64,{{ hist_img }}" alt="Histogram">
+                    </div>
+                    <div class="chart">
+                        <img src="data:image/png;base64,{{ boxplot_img }}" alt="Boxplot">
+                    </div>
+                    <div class="chart">
+                        <img src="data:image/png;base64,{{ scatter_img }}" alt="Scatter Plot">
+                    </div>
+                {% elif selected_categorical_option %}
+                    <div class="chart">
+                        <img src="data:image/png;base64,{{ pie_chart_img }}" alt="Pie Chart">
+                    </div>
+                {% endif %}
+            </div>
+                {% endif %}
+    </div>
+
+
+       
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
